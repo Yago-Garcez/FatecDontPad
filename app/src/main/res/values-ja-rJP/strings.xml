@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fatec DontPad</string>
+    <string name="action_settings">設定</string>
+    <string name="tag_edit_text_hint">希望のタグをここに入力してボタンを押す</string>
+    <string name="about">約</string>
+    <string name="about_content">Fatec IpirangaでMobile Devices Programmingクラスの課題として開発されたアプリケーション。開発者：Adriano Carvalho、Gianluca、Roberta Gomes、Yago Garcez</string>
+    <string name="firebase_error">Firebaseからデータを取得しようとするときの問題</string>
+    <string name="tag_empty">タグフィールドが空です。ボタンを押す前に入力してください</string>
+    <string name="description_edit_text">タグを検索するテキストフィールド</string>
+    <string name="description_logo">アプリケーションロゴ</string>
+    <string name="description_label_tag">現在のタグラベル</string>
+    <string name="description_content_tag">タグに関連付けられたコンテンツのテキストボックス</string>
+    <string name="hint_content">タグに関連付けられたコンテンツのテキストボックス</string>
+    <string name="description_fab">検索を実行するボタン</string>
+</resources>

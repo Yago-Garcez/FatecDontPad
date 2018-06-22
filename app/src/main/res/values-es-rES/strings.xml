@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fatec DontPad</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="tag_edit_text_hint">Escriba la tag deseada aquí y presione el botón</string>
+    <string name="about">Acerca de</string>
+    <string name="about_content">Aplicación desarrollada como asignación para clase de programación de dispositivos móviles en Fatec Ipiranga. Desarrolladores: Adriano Carvalho, Gianluca, Roberta Gomes y Yago Garcez</string>
+    <string name="firebase_error">Problemas al tratar de recuperar datos de Firebase</string>
+    <string name="tag_empty">El campo Tag está vacío, por favor llénelo antes de presionar el botón</string>
+    <string name="description_edit_text">Campo de texto para buscar la tag</string>
+    <string name="description_logo">Logotipo de la aplicación</string>
+    <string name="description_label_tag">Etiqueta de la tag actual</string>
+    <string name="description_content_tag">Cuadro de texto con contenido asociado a la tag</string>
+    <string name="hint_content">Cuadro de texto con contenido asociado a la tag</string>
+    <string name="description_fab">Botón para realizar la búsqueda</string>
+</resources>

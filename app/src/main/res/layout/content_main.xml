@@ -14,12 +14,14 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:hintTextAppearance="@style/TextAppearance.App.TextInputLayout">
+
         <android.support.design.widget.TextInputEditText
+            android:contentDescription="@string/description_edit_text"
+            android:id="@+id/tagEditText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/tagEditText"
             android:hint="@string/tag_edit_text_hint"
-            android:singleLine="true"/>
+            android:singleLine="true" />
     </android.support.design.widget.TextInputLayout>
 
     <GridLayout
@@ -29,6 +31,7 @@
         android:columnCount="2"
         android:layout_marginLeft="2sp">
         <TextView
+            android:contentDescription="@string/description_label_tag"
             android:id="@+id/tagLabelTextView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -37,6 +40,7 @@
             android:layout_column="0"/>
 
         <TextView
+            android:contentDescription="@string/description_label_tag"
             android:id="@+id/tagTextView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -45,6 +49,8 @@
     </GridLayout>
 
     <EditText
+        android:contentDescription="@string/description_content_tag"
+        android:hint="@string/hint_content"
         android:id="@+id/tagContentEditText"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

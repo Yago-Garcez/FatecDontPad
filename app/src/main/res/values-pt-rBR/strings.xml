@@ -7,4 +7,10 @@
     <string name="about_content">App desenvolvido como conclusão da disciplina Pogramação de Dispositivos Móveis na Fatec Ipiranga. Desenvolvedores: Adriano Carvalho, Gianluca Stremote, Roberta Gomes, Yago Garcez</string>
     <string name="firebase_error">Problemas ao recuperar dados do Firebase</string>
     <string name="tag_empty">O campo de Tag está vazio, por favor, o preencha antes de acionar o botão</string>
+    <string name="description_edit_text">Campo de texto para pesquisar tag</string>
+    <string name="description_logo">Logotipo da aplicação</string>
+    <string name="description_label_tag">Label da tag atual</string>
+    <string name="description_content_tag">Caixa de texto com conteúdo associado à tag</string>
+    <string name="hint_content">Caixa de texto com conteúdo associado à tag</string>
+    <string name="description_fab">Botão para realizar a pesquisa</string>
 </resources>
