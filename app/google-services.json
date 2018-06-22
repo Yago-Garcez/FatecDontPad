@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1033884715327",
+    "firebase_url": "https://fatecdontpad.firebaseio.com",
+    "project_id": "fatecdontpad",
+    "storage_bucket": "fatecdontpad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033884715327:android:679184675101483d",
+        "android_client_info": {
+          "package_name": "com.example.adria.fatecdontpad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033884715327-g2e46fcdhp49hhe4cpt6a53n8nrbnf73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adria.fatecdontpad",
+            "certificate_hash": "3d628ceff157d095d5bc4e1ad48a93a6c5c113bc"
+          }
+        },
+        {
+          "client_id": "1033884715327-n4g41khgeci2hbgf1o74auj2cud2lfhd.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1033884715327-n4g41khgeci2hbgf1o74auj2cud2lfhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQdIOYx6Pe6Mz0vX1w6eSBs5MV_o7aEzE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033884715327-n4g41khgeci2hbgf1o74auj2cud2lfhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
